@@ -44,4 +44,3 @@ applications:
       target: vm1
       input_values:
         - AWS_INSTANCE_TYPE: $AWS_INSTANCE_TYPE
-              
